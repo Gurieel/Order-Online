@@ -1,0 +1,17 @@
+instalar o template da dev samurai (https://www.npmjs.com/package/@devsamurai/cra-template-basic):
+npx create-react-app [ProjectName] --template @devsamurai/basic
+
+mudar o .env.example para .env apenas
+colocar .env no .gitignore
+
+troca as logos
+
+troca as informações do manifest.json
+
+no index.html do public, troque:
+  cor
+  descrição
+  titulo
+
+Criar pagina de produto, página main
+  limpar página
